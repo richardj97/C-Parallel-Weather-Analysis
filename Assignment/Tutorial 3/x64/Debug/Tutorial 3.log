@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Tutorial 3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assignment.cpp
+c:\users\richjacobs\desktop\assignment\tutorial 3\assignment.cpp(63): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=cl_int
+          ]
+c:\users\richjacobs\desktop\assignment\tutorial 3\assignment.cpp(155): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\richjacobs\desktop\assignment\tutorial 3\assignment.cpp(365): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\richjacobs\desktop\assignment\tutorial 3\assignment.cpp(366): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\richjacobs\desktop\assignment\tutorial 3\assignment.cpp(384): warning C4244: 'argument': conversion from 'uint64_t' to 'double', possible loss of data
+c:\users\richjacobs\desktop\assignment\tutorial 3\assignment.cpp(385): warning C4244: 'argument': conversion from 'uint64_t' to 'double', possible loss of data
+c:\users\richjacobs\desktop\assignment\tutorial 3\assignment.cpp(386): warning C4244: 'argument': conversion from 'uint64_t' to 'double', possible loss of data
+c:\users\richjacobs\desktop\assignment\tutorial 3\assignment.cpp(387): warning C4244: 'argument': conversion from 'uint64_t' to 'double', possible loss of data
+c:\users\richjacobs\desktop\assignment\tutorial 3\assignment.cpp(388): warning C4244: 'argument': conversion from 'uint64_t' to 'double', possible loss of data
+c:\users\richjacobs\desktop\assignment\tutorial 3\assignment.cpp(389): warning C4244: 'argument': conversion from 'uint64_t' to 'double', possible loss of data
+c:\users\richjacobs\desktop\assignment\tutorial 3\assignment.cpp(390): warning C4244: 'argument': conversion from 'uint64_t' to 'double', possible loss of data
+  Tutorial 3.vcxproj -> C:\Users\RichJacobs\Desktop\Assignment\x64\Debug\Assignment.exe
+  my_kernels.cl
+          1 file(s) copied.
